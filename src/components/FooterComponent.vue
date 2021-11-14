@@ -1,10 +1,12 @@
 <template>
-$END$
+    <div>
+        Footer
+    </div>
 </template>
 
 <script>
 export default {
-name: "FooterComponent.vue"
+    name: "FooterComponent.vue"
 }
 </script>
 
