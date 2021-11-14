@@ -1,0 +1,21 @@
+{
+  "user": {
+    "id": 1,
+    "name": "User",
+    "position": "Developer",
+    "avatar": "https://cdn1.vectorstock.com/i/1000x1000/23/70/man-avatar-icon-flat-vector-19152370.jpg",
+    "company": {
+      "name": "GainHQ",
+      "url": "http://gain.media"
+    }
+  },
+  "header": {
+    "nav": [
+      { "id": 1, "title": "home", "url": "/" },
+      { "id": 2, "title": "about", "url": "/about" }
+    ]
+  },
+  "footer": {
+
+  }
+}
