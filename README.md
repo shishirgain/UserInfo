@@ -1,19 +1,22 @@
-# core-vue
+# User Info
 
 ## Project setup
 ```
-yarn install
+yarn install || npm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn serve || npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build || npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Technology Uses
+* [VueJS 2](https://vuejs.org/)
+* [VueX 3](https://vuex.vuejs.org/)
+* [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [JSON](https://www.json.org/)
